@@ -3,7 +3,7 @@ Bu proje, 14 Şubat Sevgililer Günü için özel olarak tasarlanmış, HTML5, C
 
 Sıradan bir kutlama kartı yerine; animasyonlar, canlı sayaçlar ve etkileşimli öğelerle zenginleştirilmiş, mobil uyumlu (responsive) bir "Dijital Mektup" deneyimi sunar.
 
-🔗 Demo: [Buraya Demo Linkini Yapıştırabilirsin - Varsa]
+🔗 Demo: (https://exquisite-pasca-b9eea2.netlify.app/)
 
 ✨ Özellikler
 ✉️ İnteraktif Zarf Açılışı: CSS transform ve keyframe animasyonları ile gerçekçi zarf açma deneyimi.
